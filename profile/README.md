@@ -13,8 +13,7 @@ Here are the repositories maintained as part of the Orchid project:
 - **[Orchid Compiler](https://github.com/orchid-lang/compiler)**: Core implementation of the Orchid compiler written in C++. Converts Orchid source code into executable machine code.
 - **[Orchid Frontend](https://github.com/orchid-lang/frontend)**: The compiler frontend of the Orchid compiler. This component implements the Lexer, Parser, and the syntactical analysation of code.
 - **[Orchid Backend](link-to-backend-repo)**: Backend component of the Orchid project, responsible for generating an IR, optimizing, and generating the executable.
-- ...
-
+- 
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to any part of the Orchid project, please follow these steps:
