@@ -41,5 +41,5 @@ The Orchid compiler, frontend, and backend are open-source and licensed under th
 
 If you have any questions or suggestions, feel free to reach out to us:
 
-- Email: [contact@riley0122](mailto:contact@riley0122.dev)
+- Email: [contact@riley0122.dev](mailto:contact@riley0122.dev)
 - GitHub: [@orchid-lang](https://github.com/orchid-lang)
