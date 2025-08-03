@@ -10,10 +10,9 @@ Orchid is a programming language designed to be versatile, expressive, and easy 
 
 Here are the repositories maintained as part of the Orchid project:
 
-- **[Orchid Compiler](https://github.com/orchid-lang/compiler)**: Core implementation of the Orchid compiler written in C++. Converts Orchid source code into executable machine code.
-- **[Orchid Frontend](https://github.com/orchid-lang/frontend)**: The compiler frontend of the Orchid compiler. This component implements the Lexer, Parser, and the syntactical analysation of code.
-- **[Orchid Backend](link-to-backend-repo)**: Backend component of the Orchid project, responsible for generating an IR, optimizing, and generating the executable.
-- 
+- **[Orchid Compiler](https://github.com/orchid-lang/compiler)**: The compiler for Orchid. Currently in the first phase, the core being built in python. Later this compiler will be self-hosting, in other words will be written in Orchid too.
+- **[Orchid Docs](https://github.com/orchid-lang/docs)**: The official documentation for the Orchid language
+- **[Orchid web page](https://github.com/orchid-lang/www)**: The source to the web page for Orchid.
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to any part of the Orchid project, please follow these steps:
@@ -43,3 +42,4 @@ If you have any questions or suggestions, feel free to reach out to us:
 
 - Email: [contact@riley0122.dev](mailto:contact@riley0122.dev)
 - GitHub: [@orchid-lang](https://github.com/orchid-lang)
+
