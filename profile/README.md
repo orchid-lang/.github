@@ -24,17 +24,10 @@ We welcome contributions from the community! If you'd like to contribute to any 
 5. Push to the branch (`git push origin feature`)
 6. Create a new Pull Request
 
-<!-- ## Community
-
-Join our community to stay updated and connect with other members:
-
-- [Community Forum](https://orchidforum.riley0122.dev/)
-- [Twitter](https://twitter.com/@orchidlang)
-- [Discord](https://discord.gg/6Dc9PgTVM8) -->
 
 ## License
 
-The Orchid compiler, frontend, and backend are open-source and licensed under the Mozilla Public License 2.0 (MPL 2.0). Please review the individual project repositories for license details.
+For licensing details, view the LICENSE file in the respective repository. If anything remains unclear contact us at the below listed email.
 
 ## Contact
 
@@ -42,4 +35,5 @@ If you have any questions or suggestions, feel free to reach out to us:
 
 - Email: [contact@riley0122.dev](mailto:contact@riley0122.dev)
 - GitHub: [@orchid-lang](https://github.com/orchid-lang)
+
 
